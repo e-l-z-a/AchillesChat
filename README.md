@@ -124,7 +124,7 @@ Prerequisites
 Steps
 
 # Clone repo
-git clone https://github.com/your-username/AchillesChat.git
+git clone https://github.com/e-l-z-a/AchillesChat.git
 cd AchillesChat
 
 # Restore dependencies
